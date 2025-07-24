@@ -2,15 +2,6 @@
 
 A Python-based network packet sniffer for computer networking projects. Captures and analyzes network traffic in real-time with protocol-specific decoding.
 
-## Table of Contents
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ## Features
 - 🕵️‍♂️ Real-time packet capturing
